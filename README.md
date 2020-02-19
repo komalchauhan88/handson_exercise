@@ -31,3 +31,6 @@ The task is to build automation framework providing an example structure which y
 8) Create a README file to run the project.
   
 9) Upload the code into GitHUB.
+
+
+Note - If you see any issues with Clone or Push the code in the repo. Please let me know. May be, it would require your personal GitHub account details to commit the code. In that case, let me know you GitHub username, I will add you in the repo. 
